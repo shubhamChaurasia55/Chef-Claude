@@ -1,4 +1,4 @@
-# Chef Claud - Recipe Generator
+# Chef Claude - Recipe Generator
 
 A React application that generates recipes from ingredients using Hugging Face's AI models.
 
